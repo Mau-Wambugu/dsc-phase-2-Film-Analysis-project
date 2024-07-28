@@ -29,7 +29,7 @@ The 'tn.movie_budgets.csv.gz' dataset from [The Numbers](https://www.the-numbers
 
 ### Methods
 
-This project utilizes descriptive analysis. It gives an overview of movie performance globally to dtermine the best performing type of film. The analysis shows the average movie ratings per genre, the domestic and foreign gross per genre and the most produced genres over the years. This analysis uses barccharts and line graphs to visualize these factors.
+This project utilizes descriptive analysis. It gives an overview of movie performance globally to dtermine the best performing type of film. The analysis shows the average movie ratings per genre, the domestic and foreign gross per genre and the most produced genres over the years. This analysis uses barccharts and line graphs to visualize these factors. A hypothesis test was conducted for the three analysis questions and there is use of a linear regression model.
 
 
 ### Results
