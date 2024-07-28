@@ -1,11 +1,11 @@
 # Film Industry Performance Analysis
 ## Project Overview
 
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
+This project analyzes movie performance data from Box Office Mojo, IMDB, Rotten Tomatoes, TheMovie DB and The Numbers that contain the movie ratings of different genres watched across the globe. The data obtained reflects a blend different films produced over the years and their performances domestically and internationally. Descriptibe analysis of the data shows that the fiml performance varies across different genre of movies. The company can use this analysis to determine best performing type of movies that can be best suited for making to ensure maximum profits are obtained and that they meet both domestic and international standards of the audience.
 
 ### Business Problem
 
-Your company now sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of your company's new movie studio can use to help decide what type of films to create.
+The company, upon seeing all the big companies creating original video content, wants to venture into this industry and have therefore decided to create a new movie studio. Hhowever, they lack the knowledge on creating movies. You are charged with exploring what types of films are currently doing the best at the box office. This analysis, therefore, aims to tackle the main objective which is to identify the best performing type of films that would be suitable for the company to create so as to ensure high revenue and customer satiisfaction.
 
 ### Data
 
